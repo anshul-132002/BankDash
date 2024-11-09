@@ -1,0 +1,19 @@
+{
+  
+    "labels": ["Sat","Sun","Mon", "Tue", "Wed", "Thu", "Fri"],
+    "datasets": [
+      {
+        "label": "Withdrawal",
+        "data": [200,300,100,200,300, 400, 400],
+        "color":"rgba(255, 130, 172, 1)",
+        "backgroundColor": "rgba(24, 20, 243, 1)"
+      },
+      {
+        "label": "Deposit",
+        "data": [100 ,200,300, 400, 200, 300, 500],
+        "backgroundColor": "rgba(22, 219, 204, 1)"
+      }
+    ]
+  
+}
+  

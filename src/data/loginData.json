@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "email": "",
+      "username": "sam@gmail.com",
+      "contactNumber": "5575757575",
+      "password": "sam123",
+      "id": 3
+    },
+    {
+      "email": "danshul@gmail.com",
+      "username": "anshulshrivas",
+      "contactNumber": "78878787878",
+      "password": "sam123",
+      "id": 4
+    },
+    {
+      "email": "xyz@gmail.com",
+      "username": "xyz",
+      "contactNumber": "123456",
+      "password": "123123",
+      "id": 5
+    },
+    {
+      "email": "anshulshrivas2002@gmail.com",
+      "username": "sam@gmail.com",
+      "contactNumber": "23123232",
+      "password": "sam123",
+      "id": 6
+    },
+    {
+      "email": "anshulshrivas2002@gmail.com",
+      "username": "sam@gmail.com",
+      "contactNumber": "12312312",
+      "password": "sam123",
+      "id": 7
+    },
+    {
+      "email": "anshulshrivas2002@gmail.com",
+      "username": "sam@gmail.com",
+      "contactNumber": "123456789",
+      "password": "sam123",
+      "id": 8
+    },
+    {
+      "email": "abhinayshrivas@gmail.com",
+      "username": "Abhinay",
+      "contactNumber": "626265656",
+      "password": "1254",
+      "id": 9
+    },
+    {
+      "email": "anshulshrivas2002@gmail.com",
+      "username": "Admin123",
+      "contactNumber": "178954",
+      "password": "789",
+      "id": 10
+    }
+  ]
+}

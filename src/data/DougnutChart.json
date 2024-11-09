@@ -1,0 +1,11 @@
+{
+    "labels": ["Entertainment", "Bills", "Investment", "Others"],
+    "datasets": [
+      {
+        "label": "Expense Distribution",
+        "data": [30, 15, 20, 35],
+        "backgroundColor": ["rgba(52, 60, 106, 1)", "rgba(252, 121, 0, 1)", "rgba(250, 0, 255, 1)", "rgba(24, 20, 243, 1)"]
+      }
+    ]
+  }
+  

@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+        "id":1,      "name": "Livia Bator",
+      "title": "CEO",
+      "image": "julia.png"
+    },
+    {  "id":2, 
+      "name": "Randy Press",
+      "title": "Director",
+      "image": "marcel.png"
+    },
+    { "id":3, 
+      "name": "Workman",
+      "title": "Designer",
+      "image": "emanue.png"
+    }
+  ]
+}
