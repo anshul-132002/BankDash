@@ -39,3 +39,8 @@ npm run json server
 ```bash
 npm run start
 ```
+## Login Details
+```bash
+Username-Admin
+Pas-GDT
+```
