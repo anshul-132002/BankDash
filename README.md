@@ -1,6 +1,9 @@
 # BankDash - Dashboard Application
 
 A responsive dashboard application built with React, React Router, Tailwind CSS, and React Icons. This project provides an intuitive navigation experience with a sidebar, where users can easily manage accounts, transactions, and more.
+![image](https://github.com/user-attachments/assets/c42661ea-fb68-4d28-9ce7-de7a42876222)
+![image](https://github.com/user-attachments/assets/338ca870-35f5-45d0-85cf-f1dff0d84c1e)
+
 
 ## Features
 
